@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lilly.innocellence.Sunflower</string>
+				<string>com.InnoCellence.Lilly.Sunflower</string>
 				<key>bundle-version</key>
-				<string>1.0.5</string>
+				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
